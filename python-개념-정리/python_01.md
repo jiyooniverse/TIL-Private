@@ -27,7 +27,7 @@
 - 식별자
 
   ```python
-  # 내장 함수 확인
+  # keyword 확인
   import keyword
   print(keyword.kwlist)
   ```
